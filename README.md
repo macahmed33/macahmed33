@@ -50,6 +50,9 @@ Kotlin · MVVM · Retrofit · RecyclerView · Google Maps — Completed as a rec
 ### 🚀 [Jetpack Compose Example](https://github.com/macahmed33/JetpackComposeExample)
 Kotlin · Jetpack Compose · MVVM · Room · Hilt · Navigation — Full auth + list + detail flow
 
+### 🤲 [Donation Registration App](https://github.com/macahmed33/Registration)
+Flutter · Dart · REST API · PDF · SharedPreferences — Cross-platform donation management app
+
 ---
 
 ## 📊 GitHub Stats
