@@ -44,6 +44,12 @@ Clean Architecture · BLoC · REST API · Responsive UI
 ### ✅ [Android Task Manager](./android-task-manager)
 Kotlin · MVVM · Room Database · Jetpack Components
 
+### 🚲 [Bike Station Test](https://github.com/macahmed33/BikeStationTest)
+Kotlin · MVVM · Retrofit · RecyclerView · Google Maps — Completed as a recruiter technical assessment
+
+### 🚀 [Jetpack Compose Example](https://github.com/macahmed33/JetpackComposeExample)
+Kotlin · Jetpack Compose · MVVM · Room · Hilt · Navigation — Full auth + list + detail flow
+
 ---
 
 ## 📊 GitHub Stats
